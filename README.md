@@ -10,8 +10,9 @@
 - Enhancing UI/UX with hover effects and visual hierarchy  
 - Creating accessible and structured financial data tables  
 
-## 🚀 Live Demo
-[Click Here]([https://your-live-demo-link.com](https://abhinavrajeshh.github.io/balance-sheet/))
+## 🚀 Live Demo  
+[Click Here](https://abhinavrajeshh.github.io/balance-sheet/)
+
   
 
 ## 🛠️ Technologies Used
